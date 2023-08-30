@@ -25,19 +25,27 @@ During the summer of 2021, I started to learn programming, beginning my journey 
 ## 📕 Projects
 
 ####Gradebook - An online app for students and teachers
+
 An application that partially mimics the operation of an electronic gradebook. It allows you to check your schedule, your grades, statistics, and from the teacher's side to add a new news or grade to a student. Project created in NextJS (Typescript), using React Redux, Firebase, MongoDB. Combines frontend with backend and retrieving data from databases.
+<br/>
 [Github](https://github.com/tomaszz95/gradebook)        [Live](https://gradebookk.vercel.app/)
 
 ### NutriCuisine - A website to look up recipes, calculate the calories of the meal and of the products, and create a shopping list
+
 It is an application that allows you to search for recipes, check the calorie content of a product and make a shopping list. It is created in React (Typescript), using React Redux, React Router, Firebase, Local Storage and uses the food API. Depending on whether the user is logged in or not it provides additional functionality.
+<br/>
 [Github](https://github.com/tomaszz95/NutriCuisine)     [Live](https://nutricuisine.netlify.app/)
 
 ### Toolkit - A website with several apps: Todo List, Notes, Calculator, Financial management, Weather App
+
 A website with the most popular front-end projects written in React, using React Redux and React Router, as well as Local Storage.
+<br/>
 [Github](https://github.com/tomaszz95/toolkit)             [Live](https://toolkiit.netlify.app/)
 
 ### Surveying website - A website for a surveying company
+
 This is a fully functional and responsive website for a surveying company - incorporating good practices for SEO, accessibility, and cleanliness and quality of written code.
+<br/>
 [Github](https://github.com/tomaszz95/geodesy-site)      [Live](https://asgeodesy.netlify.app/)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomaszz95&show_icons=true&locale=en&layout=compact" alt="tomaszz95" /></p>
