@@ -28,6 +28,19 @@ During the summer of 2021, I started to learn programming, beginning my journey 
 
 An application that partially mimics the operation of an electronic gradebook. It allows you to check your schedule, your grades, statistics, and from the teacher's side to add a new news or grade to a student. Project created in NextJS (Typescript), using React Redux, Firebase, MongoDB. Combines frontend with backend and retrieving data from databases.
 <br/>
+
+#### To log in as a student you need to use the login dataset:
+
+- login: student1@student.com ; password: student1
+- login: student2@student.com ; password: student2
+
+#### To log in as a teacher:
+
+- login: teacher1@teacher.com ; password: teacher1
+- login: teacher2@teacher.com ; password: teacher2
+
+Student and teacher ID are not imposed in advance, just don't leave it empty.
+
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/gradebook)        [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://gradebookk.vercel.app/)
 
 ### NutriCuisine - A website to look up recipes, calculate the calories of the meal and of the products, and create a shopping list
