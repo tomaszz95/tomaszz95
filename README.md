@@ -46,22 +46,22 @@ Student and teacher ID are not imposed in advance, just don't leave it empty.
 ### NutriCuisine - A website to look up recipes, calculate the calories of the meal and of the products, and create a shopping list
 
 It is an application that allows you to search for recipes, check the calorie content of a product and make a shopping list. It is created in React (Typescript), using React Redux, React Router, Firebase, Local Storage and uses the food API. Depending on whether the user is logged in or not it provides additional functionality.
-
 <br/>
+
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/NutriCuisine)     [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://nutricuisine.netlify.app/)
 
 ### Toolkit - A website with several apps: Todo List, Notes, Calculator, Financial management, Weather App
 
 A website with the most popular front-end projects written in React, using React Redux and React Router, as well as Local Storage.
-
 <br/>
+
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/toolkit)             [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://toolkiit.netlify.app/)
 
 ### Surveying website - A website for a surveying company
 
 This is a fully functional and responsive website for a surveying company - incorporating good practices for SEO, accessibility, and cleanliness and quality of written code.
-
 <br/>
+
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/geodesy-site)      [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://asgeodesy.netlify.app/)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomaszz95&show_icons=true&locale=en&layout=compact" alt="tomaszz95" /></p>
