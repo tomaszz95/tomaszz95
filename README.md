@@ -24,10 +24,10 @@ During the summer of 2021, I started to learn programming, beginning my journey 
 
 ## 📕 Projects
 
-### Netflix Clone - A website, which is an advanced clone of the popular striming service Netflix, with many of its features - it is not a 'pixel perfect' website, but as close to the original as possible.
+### Netflix Clone - Fully responsive website, which is an advanced clone of the popular striming service Netflix, with many of its features.
 
-The application allows you to open different pages depending on whether you are a guest, registered user or logged in. Registration / login unlocks additional sub-pages like profile editing or the ability to 'watch' videos - of course there is none of that here, it's just a clone. In addition, the application allows you to go through the entire registration process - like the registration itself, then choose your device, languages, favorite movies, etc.
-The application is extensive, built on NextJS using Firebase for login, React Redux and Local Storage for data storage (due to the fact that it's only a demo no user data is collected in cookies etc.).
+The application allows you to open different pages depending on whether you are a guest, registered user or logged in. Registration / login unlocks additional sub-pages like profile editing or the ability to 'watch' videos - of course there is none of that here, it's just a clone (not pixel perfect also, but as close as possible). In addition, the application allows you to go through the entire registration process - like the registration itself, then choose your device, languages, favorite movies, etc.
+The application is extensive, built on NextJS and Typescript, using Firebase for login, React Redux and Local Storage for data storage (due to the fact that it's only a demo no user data is collected in cookies).
 The application is still under construction and development, I am constantly expanding and improving it (written by myself from scratch, not from youtube videos).
 <br/>
 
