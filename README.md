@@ -24,6 +24,15 @@ During the summer of 2021, I started to learn programming, beginning my journey 
 
 ## 📕 Projects
 
+### Netflix Clone - A website, which is an advanced clone of the popular striming service Netflix, with many of its features - it is not a 'pixel perfect' website, but as close to the original as possible.
+
+The application allows you to open different pages depending on whether you are a guest, registered user or logged in. Registration / login unlocks additional sub-pages like profile editing or the ability to 'watch' videos - of course there is none of that here, it's just a clone. In addition, the application allows you to go through the entire registration process - like the registration itself, then choose your device, languages, favorite movies, etc.
+The application is extensive, built on NextJS using Firebase for login, React Redux and Local Storage for data storage (due to the fact that it's only a demo no user data is collected in cookies etc.).
+The application is still under construction and development, I am constantly expanding and improving it (written by myself from scratch, not from youtube videos).
+<br/>
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/tomaszz95/NutriCuisin](https://github.com/tomaszz95/Netflixclone)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://netflixclone-eosin-gamma.vercel.app/)
+
 ### Gradebook - An online app for students and teachers
 
 An application that partially mimics the operation of an electronic gradebook. It allows you to check your schedule, your grades, statistics, and from the teacher's side to add a new news or grade to a student. Project created in NextJS (Typescript), using React Redux, Firebase, MongoDB. Combines frontend with backend and retrieving data from databases.
