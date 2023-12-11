@@ -31,7 +31,7 @@ The page is fully responsive - for mobiles, tablets and desktops. App is 'clonin
 App is still in proggress mode.
 <br/>
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/Netflixclone)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://netflixclone-eosin-gamma.vercel.app/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/Netflixclone)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://netflixcloneen.vercel.app/) 
 
 ### Gradebook - An online app for students and teachers
 
