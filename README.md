@@ -26,9 +26,9 @@ During the summer of 2021, I started to learn programming, beginning my journey 
 
 ### Netflix Clone - Fully responsive website, which is an advanced clone of the popular striming service Netflix, with many of its features.
 
-The application allows you to open different pages depending on whether you are a guest, registered user or logged in. Registration / login unlocks additional sub-pages like profile editing or the ability to 'watch' videos - of course there is none of that here, it's just a clone (not pixel perfect also, but as close as possible). In addition, the application allows you to go through the entire registration process - like the registration itself, then choose your device, languages, favorite movies, etc.
-The application is extensive, built on NextJS and Typescript, using Firebase for login, React Redux and Local Storage for data storage (due to the fact that it's only a demo no user data is collected in cookies).
-The application is still under construction and development, I am constantly expanding and improving it (written by myself from scratch, not from youtube videos).
+The project is created in NextJS (13) using a small amount of React Redux, Firebase and written in Typescript.
+The page is fully responsive - for mobiles, tablets and desktops. App is 'cloning' netflix site - I used the tmdb database, which is not as detailed as the netflix one, that means no videos, no detailed information about individual episodes of series or other detailed data. The application contains many sub-pages, starting from the main view, through the whole process of logging in and registering, selecting a profile and editing it (some properties can be edited, others blocked in this demo version), up to the main page of series, movies and individual sub-pages. Due to the nature of the app I used another icons, used some dummy texts and this is not 'pixel perfect' clone - this is mainly due to a different api, which dictates a different placement of for example series and movie posters (netflix has them horizontally, tmdb vertically, also another data etc.).
+App is still in proggress mode.
 <br/>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/Netflixclone)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://netflixclone-eosin-gamma.vercel.app/)
@@ -41,12 +41,10 @@ An application that partially mimics the operation of an electronic gradebook. I
 #### To log in as a student you need to use the login dataset:
 
 - login: student1@student.com ; password: student1
-- login: student2@student.com ; password: student2
 
 #### To log in as a teacher:
 
 - login: teacher1@teacher.com ; password: teacher1
-- login: teacher2@teacher.com ; password: teacher2
 
 Student and teacher ID are not imposed in advance, just don't leave it empty.
 
