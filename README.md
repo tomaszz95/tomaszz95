@@ -24,18 +24,18 @@ I am a self-taught Frontend Developer, who is disciplined, ambitious and ready t
 
 ## 📕 Projects
 
-### Netflix Clone - Fully responsive website, which is an advanced clone of the popular striming service Netflix, with many of its features.
+### Netflix Clone - Fully responsive website, which is an advanced clone of the popular streaming service Netflix, with many of its features.
 
 The project is created in NextJS (13) using a small amount of React Redux, Firebase and written in Typescript.
-The page is fully responsive - for mobiles, tablets and desktops. App is 'cloning' netflix site - I used the tmdb database, which is not as detailed as the netflix one, that means no videos, no detailed information about individual episodes of series or other detailed data. The application contains many sub-pages, starting from the main view, through the whole process of logging in and registering, selecting a profile and editing it (some properties can be edited, others blocked in this demo version), up to the main page of series, movies and individual sub-pages. Due to the nature of the app I used another icons, used some dummy texts and this is not 'pixel perfect' clone - this is mainly due to a different api, which dictates a different placement of for example series and movie posters (netflix has them horizontally, tmdb vertically, also another data etc.).
-App is still in proggress mode.
+The page is fully responsive - for mobiles, tablets and desktops. The app is 'cloning' the Netflix site - I used the tmdb database, which is not as detailed as the Netflix one. This means no videos, no detailed information about individual episodes of series, or other detailed data. The application contains many sub-pages, starting from the main view, through the whole process of logging in and registering, selecting a profile and editing it (some properties can be edited, others are blocked in this demo version), up to the main page of series, movies and individual sub-pages. Due to the nature of the app I used different icons, employed some dummy texts, and this is not a 'pixel perfect' clone - mainly due to a different api, which dictates a different placement of for example series and movie posters (netflix has them horizontally, tmdb vertically, also another data etc.).
+The app is still in progress mode.
 <br/>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/Netflixclone)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://netflixcloneen.vercel.app/) 
 
 ### Gradebook - An online app for students and teachers
 
-An application that partially mimics the operation of an electronic gradebook. It allows you to check your schedule, your grades, statistics, and from the teacher's side to add a new news or grade to a student. Project created in NextJS (Typescript), using React Redux, Firebase, MongoDB. Combines frontend with backend and retrieving data from databases.
+An application that partially mimics the operation of an electronic gradebook. It allows you to check your schedule, your grades, statistics, and from the teacher's side to add news or new grades to a student. The project is created in NextJS (Typescript), using React Redux, Firebase, MongoDB. It combines frontend with backend and retrieving data from databases.
 <br/>
 
 #### To log in as a student you need to use the login dataset:
@@ -52,7 +52,7 @@ Student and teacher ID are not imposed in advance, just don't leave it empty.
 
 ### NutriCuisine - A website to look up recipes, calculate the calories of the meal and of the products, and create a shopping list
 
-It is an application that allows you to search for recipes, check the calorie content of a product and make a shopping list. It is created in React (Typescript), using React Redux, React Router, Firebase, Local Storage and uses the food API. Depending on whether the user is logged in or not it provides additional functionality.
+It is an application that allows you to search for recipes, check the calorie content of a product and make a shopping list. It is created in React (Typescript), using React Redux, React Router, Firebase, Local Storage and uses the food API. Depending on whether the user is logged in or not, it provides additional functionality.
 <br/>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/NutriCuisine)     [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://nutricuisine.netlify.app/)
