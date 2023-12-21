@@ -4,24 +4,6 @@ I am a self-taught Frontend Developer, who is disciplined, ambitious and ready t
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomasz-zuber95)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tzuber95@gmail.com)](mailto:tzuber95@gmail.com)
 
-## 🔧 Technologies
-
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/tzuber95/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://github.com/tzuber95/)
-[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)](https://github.com/tzuber95/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/tzuber95/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)](https://github.com/tzuber95/)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/tzuber95/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/tzuber95/)
-
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/tzuber95/)
-[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://github.com/tzuber95/)
-[![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=pink)](https://github.com/tzuber95/)
-[![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/tzuber95/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/tzuber95/)
-[![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/tzuber95/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/tzuber95/)
-
 ## 📕 Projects
 
 ### Netflix Clone - Fully responsive website, which is an advanced clone of the popular streaming service Netflix, with many of its features.
@@ -70,5 +52,24 @@ This is a fully functional and responsive website for a surveying company - inco
 <br/>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/geodesy-site)      [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://asgeodesy.netlify.app/)
+
+## 🔧 Technologies
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/tzuber95/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://github.com/tzuber95/)
+[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)](https://github.com/tzuber95/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/tzuber95/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)](https://github.com/tzuber95/)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/tzuber95/)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/tzuber95/)
+
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/tzuber95/)
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://github.com/tzuber95/)
+[![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=pink)](https://github.com/tzuber95/)
+[![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/tzuber95/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/tzuber95/)
+[![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/tzuber95/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/tzuber95/)
+
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomaszz95&show_icons=true&locale=en&layout=compact" alt="tomaszz95" /></p>
