@@ -10,7 +10,7 @@ I am a self-taught Frontend Developer, who is disciplined, ambitious and ready t
 
 The project is created in NextJS (13) using a small amount of React Redux, Firebase and written in Typescript.
 The page is fully responsive - for mobiles, tablets and desktops. The app is 'cloning' the Netflix site - I used the tmdb database, which is not as detailed as the Netflix one. This means no videos, no detailed information about individual episodes of series, or other detailed data. The application contains many sub-pages, starting from the main view, through the whole process of logging in and registering, selecting a profile and editing it (some properties can be edited, others are blocked in this demo version), up to the main page of series, movies and individual sub-pages. Due to the nature of the app I used different icons, employed some dummy texts, and this is not a 'pixel perfect' clone - mainly due to a different api, which dictates a different placement of for example series and movie posters (netflix has them horizontally, tmdb vertically, also another data etc.).
-The app is still in progress mode.
+The app is built with about 250 components (also some custom hooks, helpers, api fetching) and contains around 30 differens subpages (also dynamic ones with series and films data).
 <br/>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/Netflixclone)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://netflixcloneen.vercel.app/) 
