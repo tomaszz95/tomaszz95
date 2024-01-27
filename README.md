@@ -1,8 +1,7 @@
 # Hi 👋🏻, I'm Tomek
-## An aspiring Junior Frontend Developer
 
 ## 🙍 About me
-I am a self-taught Frontend Developer, who is disciplined, ambitious and ready to continuously develop my programming skills. I am interested in long-term collaboration and work, that allows me to improve and contribute significantly to the company. I am able to work under pressure, both as a part of the team and independently when it is necessary, I enjoy problem-solving and leveraging my creativity in my work.
+I am an aspiring Junior Frontend Developer, who is disciplined, ambitious and ready to continuously develop my programming skills. I am interested in long-term collaboration and work, that allows me to improve and contribute significantly to the company. I am able to work under pressure, both as a part of the team and independently when it is necessary, I enjoy problem-solving and leveraging my creativity in my work.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomasz-zuber95)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tzuber95@gmail.com)](mailto:tzuber95@gmail.com)
