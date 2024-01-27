@@ -1,4 +1,4 @@
-### Hi 👋🏻, I'm Tomek
+# Hi 👋🏻, I'm Tomek
 ## An aspiring Junior Frontend Developer
 
 ## 🙍 About me
