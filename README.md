@@ -48,8 +48,6 @@ An application that partially mimics the operation of an electronic gradebook. I
 
 - login: teacher1@teacher.com ; password: teacher1
 
-Student and teacher ID are not imposed in advance, just don't leave it empty.
-
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/gradebook)        [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://gradebookk.vercel.app/)
 
 ### NutriCuisine - A website to look up recipes, calculate the calories of the meal and of the products, and create a shopping list
