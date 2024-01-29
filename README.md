@@ -1,4 +1,4 @@
-# Hi 👋🏻, I'm Tomek
+<img alt="Hello I'm Tomek" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=030637&center=false&vCenter=true&width=435&lines=Hello+I'm+Tomek">
 
 ## 🙍 About me
 I am an aspiring Junior Frontend Developer, who is disciplined, ambitious and ready to continuously develop my programming skills. I am interested in long-term collaboration and work, that allows me to improve and contribute significantly to the company. I am able to work under pressure, both as a part of the team and independently when it is necessary, I enjoy problem-solving and leveraging my creativity in my work.
