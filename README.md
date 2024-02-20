@@ -1,9 +1,11 @@
 <img alt="Hello I'm Tomek" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=33CA0E&center=false&vCenter=true&width=435&lines=Hello+I'm+Tomek">
 
 ## 🙍 About me
-I am an aspiring Junior Frontend Developer, who is disciplined, ambitious and ready to continuously develop my programming skills. I am interested in long-term collaboration and work, that allows me to improve and contribute significantly to the company. I am able to work under pressure, both as a part of the team and independently when it is necessary, I enjoy problem-solving and leveraging my creativity in my work.
+My programming journey began over two years ago. I started with HTML, CSS, and JavaScript, then ventured into React and its popular framework Next.js. Currently, I'm expanding my knowledge in this area. Additionally, I plan to learn backend technologies such as Node.js, Express, and possibly Java. At the moment I am an aspiring Junior Frontend Developer eager to get my first job and ultimately become a Fullstack Developer someday.
+I am disciplined, ambitious, and ready to continuously improve my programming skills. I am interested in a long-term collaboration and job that allows me to contribute significantly to the company while enhancing my abilities. I can work under pressure, both as a part of the team and independently when necessary. Problem-solving and leveraging creativity are aspects of work that I particularly enjoy.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomasz-zuber95)
+[![Portfolio page](https://img.shields.io/badge/Portfolio%20Page-8A2BE2)](https://tomaszzportfolio.vercel.app)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tzuber95@gmail.com)](mailto:tzuber95@gmail.com)
 
 ## 🔧 Technologies
@@ -26,18 +28,23 @@ I am an aspiring Junior Frontend Developer, who is disciplined, ambitious and re
 
 ## 📕 Projects
 
-### Netflix Clone - Fully responsive website, which is an advanced clone of the popular streaming service Netflix, with many of its features.
+### Netflix Clone - A website that is a clone of Netflix – it is fully responsive, with SEO and accessibility practices and with many features from the original streaming site.
 
-The project is created in NextJS (13) using a small amount of React Redux, Firebase and written in Typescript.
-The page is fully responsive - for mobiles, tablets and desktops. The app is 'cloning' the Netflix site - I used the tmdb database, which is not as detailed as the Netflix one. This means no videos, no detailed information about individual episodes of series, or other detailed data. The application contains many sub-pages, starting from the main view, through the whole process of logging in and registering, selecting a profile and editing it (some properties can be edited, others are blocked in this demo version), up to the main page of series, movies and individual sub-pages. Due to the nature of the app I used different icons, employed some dummy texts, and this is not a 'pixel perfect' clone - mainly due to a different api, which dictates a different placement of for example series and movie posters (netflix has them horizontally, tmdb vertically, also another data etc.).
-The app is built with about 250 components (also some custom hooks, helpers, api fetching) and contains around 30 differens subpages (also dynamic ones with series and films data).
+The project is created in NextJS (13) using a small amount of React Redux, Firebase and written in Typescript. The page is fully responsive – for mobiles, tablets and desktops. The app is cloning the Netflix site – I used the TMDB database, which is not as detailed as the Netflix one. Therefore, detailed data such as videos and individual episode information is unavailable. The application contains various sub-pages, including the main view, login and registration processes, selecting a profile and editing it (not all properties can be edited), series and movies main pages and individual sub-pages. Due to the nature of the app, I used different icons, some dummy texts and it is not a pixel-perfect clone – mainly because of the different API, which dictates a different placement of for example series and movie posters.
 <br/>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/Netflixclone)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://netflixcloneen.vercel.app/) 
 
-### Gradebook - An online app for students and teachers
+### Portfolio Page - A simple website briefly introducing me, the projects I have created and providing methods to contact me, along with the option to download my CV.
 
-An application that partially mimics the operation of an electronic gradebook. It allows you to check your schedule, your grades, statistics, and from the teacher's side to add news or new grades to a student. The project is created in NextJS (Typescript), using React Redux, Firebase, MongoDB. It combines frontend with backend and retrieving data from databases.
+The page you are currently on serves as my portfolio and personal introduction. The site includes information about me, my projects and ways to contact me. It is not an overly complicated application, but clean, clear and comprehensive. The site is created in NextJs (14) using Typescript and Tailwind. Framer motion is a package used to animate the site. It consists of a homepage and three main subpages: about me, projects and contact. Additionally, each project has a separate subpage where you can find more detailed information and photos.
+<br/>
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/mainsite)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://tomaszzportfolio.vercel.app/) 
+
+### Gradebook - An application that partly mimics the functioning of an electronic gradebook.
+
+You can log in as either a teacher or a student. When you are logged as a student, you can check your timetable, grades, grade-related statistics, and information about other students/classes. As a teacher, you can also add news, assign grades to individual students and view statistics for the entire school (only two classes are available). It integrates frontend with backend and retrieving data from databases.
 <br/>
 
 #### To log in as a student you need to use the login dataset:
@@ -57,16 +64,16 @@ It is an application that allows you to search for recipes, check the calorie co
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/NutriCuisine)     [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://nutricuisine.netlify.app/)
 
-### Toolkit - A website with several apps: Todo List, Notes, Calculator, Financial management, Weather App
+### Toolkit - A website featuring the most popular frontend projects written in React – Calculator, Todo List, Note App, Weather App and Finances Manager combined into one website.
 
-A website with the most popular front-end projects written in React, using React Redux and React Router, as well as Local Storage.
+The page includes 5 applications: ToDo List, Note App, Finances Manager, Calculator and Weather App. The project is created in React using Create React App, React Router and React Redux. The sites are responsive, using Local Storage to store information (like tasks, notes etc.) and adapted in terms of accessibility.
 <br/>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/toolkit)             [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://toolkiit.netlify.app/)
 
-### Surveying website - A website for a surveying company
+### Surveying website - A simple, fully functional, and responsive website for a surveying company.
 
-This is a fully functional and responsive website for a surveying company - incorporating good practices for SEO, accessibility, and cleanliness and quality of written code.
+This is my first website, that can be a site for surveying company. It includes good practices for SEO, accessibility, cleanliness and code quality. The site is simple, contains all the information a client might need, presented tidily. The design is based on other surveying websites.
 <br/>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/geodesy-site)      [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://asgeodesy.netlify.app/)
