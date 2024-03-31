@@ -16,6 +16,7 @@ I am disciplined, ambitious, and ready to continuously improve my programming sk
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/tomaszz95)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)](https://github.com/tomaszz95)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/tomaszz95)
+[![WordPress](https://img.shields.io/badge/Wordpress-FF0000)](https://github.com/tomaszz95)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/tomaszz95)
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/tomaszz95)
