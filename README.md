@@ -1,8 +1,7 @@
 <img alt="Hello I'm Tomek" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=33CA0E&center=false&vCenter=true&width=435&lines=Hello+I'm+Tomek">
 
 ## 🙍 About me
-My programming journey began over two years ago. I started with HTML, CSS, and JavaScript, then ventured into React and its popular framework Next.js. Currently, I'm expanding my knowledge in this area. Additionally, I plan to learn backend technologies such as Node.js, Express, and possibly Java. At the moment I am an aspiring Junior Frontend Developer eager to get my first job and ultimately become a Fullstack Developer someday.
-I am disciplined, ambitious, and ready to continuously improve my programming skills. I am interested in a long-term collaboration and job that allows me to contribute significantly to the company while enhancing my abilities. I can work under pressure, both as a part of the team and independently when necessary. Problem-solving and leveraging creativity are aspects of work that I particularly enjoy.
+Passionate self-taught frontend developer with a steadfast commitment to continuous improvement. Over the past two years, I've dedicated myself to mastering programming languages and frameworks, priming myself for a professional career. Despite lacking formal industry experience, my expertise in frontend technologies positions me strongly for entry-level roles. Eager to expand my skill set, I'm actively seeking opportunities to delve into full-stack development, particularly drawn to backend programming and database management.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomasz-zuber95)
 [![Portfolio page](https://img.shields.io/badge/Portfolio%20Page-8A2BE2)](https://tomaszzportfolio.vercel.app)
@@ -37,6 +36,18 @@ The project is created in NextJS (13) using a small amount of React Redux, Fireb
 <br/>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/Netflixclone)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://netflixcloneen.vercel.app/) 
+
+### Wordpress pages - Two websites created using Wordpress. One is a typical company website for a law firm created in Polish language, and the other is a small online shop for pet accessories.
+
+First Website created using Wordpress and Gutenberg - in addition Astra was used as a theme. It is a fully functional and responsive web application that is a showcase for the law firm. Site is created in Polish language.
+
+The website consists of five sub-pages. The main page, where all the advantages and incentives to use the law firm's services are briefly described. Then there are the 'about us' and 'team' sub-pages where, as the name suggests, the firm's history is described, clients are listed and team members are introduced. This is followed by a listing of services and an indication of how the process with the client will be carried out, ending with a 'contact us' sub-page where you can use the form to write to the firm.
+<br/>
+Second website created using Wordpress and Gutenberg - in addition Astra was used as a theme. It is a fully functional and responsive web application that is a showcase for the law firm. Site is created in Polish language.
+
+It is a fully functional online shop with many products, categories, shop rules, privacy policy. You can add products to the basket, remove them, select others, in addition, the whole purchasing process also works - right down to the email to the buyer. You can search for products, undo, select the size. Of course, the ability to send payment has been disabled, but this is only a demo version of the shop.
+
+[![PZB Kancelaria](https://img.shields.io/badge/PZB-Kancelaria-FF0000)](https://pzbkancelaria.pl/)     [![Animal Empire](https://img.shields.io/badge/Animal-Empire-FF0000)](https://animalempire.eu/)   
 
 ### Portfolio Page - A simple website briefly introducing me, the projects I have created and providing methods to contact me, along with the option to download my CV.
 
