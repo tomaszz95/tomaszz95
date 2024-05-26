@@ -55,21 +55,6 @@ The site includes information about me, my projects and ways to contact me. It i
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/mainsite)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://tomaszzportfolio.vercel.app/) 
 
-### Gradebook - An application that partly mimics the functioning of an electronic gradebook.
-
-You can log in as either a teacher or a student. When you are logged as a student, you can check your timetable, grades, grade-related statistics, and information about other students/classes. As a teacher, you can also add news, assign grades to individual students and view statistics for the entire school (only two classes are available). It integrates frontend with backend and retrieving data from databases.
-<br/>
-
-#### To log in as a student you need to use the login dataset:
-
-- login: student1@student.com ; password: student1
-
-#### To log in as a teacher:
-
-- login: teacher1@teacher.com ; password: teacher1
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/gradebook)        [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://gradebookk.vercel.app/)
-
 ### NutriCuisine - A website to look up recipes, calculate the calories of the meal and of the products, and create a shopping list
 
 It is an application that allows you to search for recipes, check the calorie content of a product and make a shopping list. It is created in React (Typescript), using React Redux, React Router, Firebase, Local Storage and uses the food API. Depending on whether the user is logged in or not, it provides additional functionality.
