@@ -17,11 +17,11 @@ I’ve been learning programming for over two years, starting my journey with fr
 [![WordPress](https://img.shields.io/badge/Wordpress-FF0000)](https://github.com/tomaszz95)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/tomaszz95)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)](https://github.com/tomaszz95)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/tomaszz95)
-[![Next.js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/tomaszz95)
-[![JEST](https://img.shields.io/badge/JEST-FF6347)](https://github.com/tomaszz95)
-[![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-FF0000)](https://github.com/tomaszz95)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/tomaszz95)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white)](https://github.com/tomaszz95)
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/tomaszz95)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://github.com/tomaszz95)
+[![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-FF6F00?style=flat-square&logo=react&logoColor=white)](https://github.com/tomaszz95)
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/tomaszz95)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/tomaszz95)
