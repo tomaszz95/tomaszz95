@@ -9,24 +9,27 @@ I’ve been learning programming for over two years, starting my journey with fr
 
 ## 🔧 Technologies
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/tomaszz95)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://github.com/tomaszz95)
-[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)](https://github.com/tomaszz95)
+[![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/tomaszz95)
+[![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://github.com/tomaszz95)
+[![SASS](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)](https://github.com/tomaszz95)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/tomaszz95)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/tomaszz95)
+[![WordPress](https://img.shields.io/badge/Wordpress-FF0000)](https://github.com/tomaszz95)
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/tomaszz95)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)](https://github.com/tomaszz95)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/tomaszz95)
-[![WordPress](https://img.shields.io/badge/Wordpress-FF0000)](https://github.com/tomaszz95)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/tomaszz95)
-
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/tomaszz95)
-[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://github.com/tomaszz95)
-[![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=pink)](https://github.com/tomaszz95)
+[![Next.js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/tomaszz95)
 [![JEST](https://img.shields.io/badge/JEST-FF6347)](https://github.com/tomaszz95)
 [![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-FF0000)](https://github.com/tomaszz95)
-[![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/tomaszz95)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/tomaszz95)
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/tomaszz95)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/tomaszz95)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/tomaszz95)
+[![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)](https://github.com/tomaszz95)
 [![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/tomaszz95)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/tomaszz95)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/tomaszz95)
+
 
 ## 📕 Projects
 
