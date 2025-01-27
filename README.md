@@ -46,23 +46,81 @@ Key features of the project:
 [![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)](https://github.com/tomaszz95) 
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/tomaszz95)
 
-The project is fully deployed using **Vercel** for the frontend and **Render.com** for the backend, which is hosted as a **Node.js** server.
-
-You can check the source code for this project on GitHub or view the live site on Vercel:
+You can check the source code for this project on GitHub or view the live site on Vercel (backend hosted on Render.com):
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/ecommerce)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://nextpc.vercel.app/) 
 
-### Netflix Clone - A website that is a clone of Netflix – it is fully responsive, with SEO and accessibility practices and with many features from the original streaming site.
+### Netflix Clone Project
 
-The project is created in NextJS (13) using a small amount of React Redux, Firebase and written in Typescript. The page is fully responsive – for mobiles, tablets and desktops. The app is cloning the Netflix site – I used the TMDB database, which is not as detailed as the Netflix one. Therefore, detailed data such as videos and individual episode information is unavailable. The application contains various sub-pages, including the main view, login and registration processes, selecting a profile and editing it (not all properties can be edited), series and movies main pages and individual sub-pages. Due to the nature of the app, I used different icons, some dummy texts and it is not a pixel-perfect clone – mainly because of the different API, which dictates a different placement of for example series and movie posters.
-<br/>
+**Netflix Clone** is a comprehensive web application designed to replicate key features of Netflix. Built using Next.js, React, TypeScript, and Firebase, the project showcases a responsive and functional design, offering users an engaging streaming experience. While it is not a pixel-perfect clone, the application demonstrates the core workflows of Netflix, adapted to the limitations of the TMDB API.
+
+Key features of the project:
+- **Complete Registration Workflow**: Simulates the full Netflix registration process, including selecting devices, languages, and user preferences.
+- **Profile Management**: Enables logged-in users to edit profiles, manage accounts, and access dedicated "Kids" or "Watching Series" pages.
+- **Guest and Logged-In Views**: Offers distinct interfaces for guests and authenticated users, with dedicated features like profile selection and editing.
+- **Search Functionality**: Users can search for series or films by title with results fetched from the TMDB database.
+- **Multi-Page Application**: Includes approximately 30 pages, both static and dynamic, such as home pages, series/movies pages, and detailed subpages.
+- **Responsive Design**: Fully optimized for mobile, tablet, and desktop devices with a user-friendly layout.
+
+#### Technologies Used:
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white)](https://github.com/tomaszz95) 
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/tomaszz95) 
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/tomaszz95) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/tomaszz95) 
+[![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/tomaszz95)
+
+You can check the source code for this project on GitHub or view the live site on Vercel:
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/Netflixclone)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://netflixcloneen.vercel.app/) 
 
-### Portfolio Page - A simple website briefly introducing me, the projects I have created and providing methods to contact me, along with the option to download my CV.
+### Business Landing Pages (Geodesy and Law Company Pages)
 
-The site includes information about me, my projects and ways to contact me. It is not an overly complicated application, but clean, clear and comprehensive. The site is created in NextJs (14) using Typescript and Tailwind. Framer motion is a package used to animate the site. It consists of a homepage and three main subpages: about me, projects and contact. Additionally, each project has a separate subpage where you can find more detailed information and photos. Site is tested using JEST and RTL - more than 100 unit tests are written for most components of varying complexity.
-<br/>
+These projects showcase fully responsive websites designed and developed for two fictional businesses: a geodesy company and a law firm. Both websites prioritize clean design, intuitive navigation, and adherence to modern web development standards, including SEO optimization and accessibility-friendly practices.
+
+**Geodesy Website** - a professional website created for a fictional geodesy company. The content is written in Polish, with a clear and straightforward structure tailored to highlight the services offered by land surveyors.
+
+**Law Company Website** - a comprehensive website designed for a fictional law firm. Written in English, it provides detailed information about the company’s team, services, and contact options in a professional layout.
+
+Key features:
+- **Main Pages**: A main page with three / four sub-pages: Services, About Us, Team (Law Company) and Contact.
+- **Accessibility-Friendly**: Designed with inclusive practices for easy usability.
+- **SEO Optimized**: Structured to enhance visibility on search engines.
+- **Core Design Principles**: Clean and minimalistic layout for a professional appearance.
+- **Responsive Design**: Optimized for mobile, tablet, and desktop viewing, ensuring a seamless user experience across devices.
+- **Custom 404 Page**: Designed for improved user experience in case of navigation errors
+
+#### Technologies Used:
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white)](https://github.com/tomaszz95) 
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/tomaszz95) 
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/tomaszz95) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/tomaszz95) 
+
+You can check the source code for this projects on GitHub or view the live site on Vercel:
+ASGeodesy: [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/asgeodesy)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://asgeodezja.vercel.app/) 
+PZB Law Company: [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/pzblawcompany)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://pzblawcompany.vercel.app/) 
+
+### Portfolio Page
+
+**Portfolio Page** is a modern, fully responsive website built with Next.js, TypeScript, and Tailwind CSS. It serves as a personal showcase for projects, skills, and contact information, following best practices for SEO and accessibility. The site includes several static and dynamic sub-pages, offering visitors detailed insights into completed projects and easy navigation. Site is tested using JEST and RTL - more than 100 unit tests are written for most components of varying complexity.
+
+Key features of the project:
+- **Main Pages**: Includes an About Me page, a Contact page with a functional email form, and a Projects page showcasing personal work.
+- **Dynamic Project Pages**: Each project features a dedicated page with detailed information, GitHub links, and live demos.
+- **Email Form**: Fully functional contact form using Axios, integrated with Formspree and deployed via Vercel, allowing visitors to send direct emails.
+- **Unit Testing**: Over 100 Jest and React Testing Library tests to ensure the components work correctly.
+- **Animations**: Smooth and interactive animations powered by the Framer Motion library.
+- **Responsive Design**: Optimized for mobile, tablet, and desktop viewing, ensuring a seamless user experience across devices.
+
+#### Technologies Used:
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white)](https://github.com/tomaszz95) 
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/tomaszz95) 
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/tomaszz95) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/tomaszz95) 
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/tomaszz95)
+[![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-FF6F00?style=flat-square&logo=react&logoColor=white)](https://github.com/tomaszz95)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://github.com/tomaszz95)
+
+You can check the source code for this project on GitHub or view the live site on Vercel:
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/mainsite)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://tomaszzportfolio.vercel.app/) 
 
