@@ -1,13 +1,13 @@
-<img alt="Hello I'm Tomek" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=33CA0E&center=false&vCenter=true&width=435&lines=Hello+I'm+Tomek">
+<img alt="Hello I'm Tomek" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=33CA0E&center=false&vCenter=true&width=555&lines=Hello+I'm+Tomek">
 
-## 🙍 About me
+# 🙍 About me
 I’ve been learning programming for over two years, starting my journey with frontend development and mastering JavaScript, TypeScript, React, and Next.js. Over time, I’ve expanded into backend technologies like Node.js, Express.js, and Mongoose, enabling me to create fully functional applications. I have experience building both frontend interfaces and backend logic, integrating them with REST APIs and managing data with MongoDB. My goal is to continue developing my skills as a full-stack developer and take on more complex and challenging projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomasz-zuber95)
 [![Portfolio](https://img.shields.io/badge/Portfolio%20Page-8A2BE2?style=flat-square&logo=vercel&logoColor=white)](https://tomaszzportfolio.vercel.app)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tzuber95@gmail.com)](mailto:tzuber95@gmail.com)
 
-## 🔧 Technologies
+# 🔧 Technologies
 
 | **Frontend** | **Backend** | **Database** | **Testing** |
 |--------------|--------------|--------------|--------------|
@@ -22,13 +22,13 @@ I’ve been learning programming for over two years, starting my journey with fr
 | [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white)](https://github.com/tomaszz95) | | | |
 | [![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/tomaszz95) | | | |
 
-## 📕 Projects
+# 📕 Projects
 
-### NeXtPC - E-commerce Website
+## NeXtPC - E-commerce Website
 
 **NeXtPC** is a fully functional online store built with **Next.js**, **React**, **TypeScript**, **Node.js**, **Express.js**, and **Mongoose**. This application simulates an e-commerce store where users can browse products, add them to their shopping cart, and proceed with checkout. Authentication and authorization are handled using **JWT** (JSON Web Tokens), with data managed via a **MongoDB** database.
 
-Key features of the project:
+### Key features of the project:
 - **User Authentication**: Sign-up, login, and logout functionality handled on the backend, allowing users to securely manage their accounts and session.
 - **Product Browsing**: Users can view a list of available products, filter them by category, and search by keywords.
 - **Shopping Cart**: Users can add and remove items from the shopping cart, with the ability to view and edit the cart before proceeding to checkout.
@@ -36,7 +36,7 @@ Key features of the project:
 - **Order and Favorite Management**: Logged-in users can check the status of their past orders and save products to their favorites for easy access and future purchases.
 - **Responsive Design**: The website is fully responsive, optimized for mobile, tablet, and desktop devices.
 
-#### Technologies Used:
+### Technologies Used:
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white)](https://github.com/tomaszz95) 
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/tomaszz95) 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/tomaszz95) 
@@ -50,11 +50,11 @@ You can check the source code for this project on GitHub or view the live site o
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/ecommerce)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://nextpc.vercel.app/) 
 
-### Netflix Clone Project
+## Netflix Clone Project
 
 **Netflix Clone** is a comprehensive web application designed to replicate key features of Netflix. Built using Next.js, React, TypeScript, and Firebase, the project showcases a responsive and functional design, offering users an engaging streaming experience. While it is not a pixel-perfect clone, the application demonstrates the core workflows of Netflix, adapted to the limitations of the TMDB API.
 
-Key features of the project:
+### Key features of the project:
 - **Complete Registration Workflow**: Simulates the full Netflix registration process, including selecting devices, languages, and user preferences.
 - **Profile Management**: Enables logged-in users to edit profiles, manage accounts, and access dedicated "Kids" or "Watching Series" pages.
 - **Guest and Logged-In Views**: Offers distinct interfaces for guests and authenticated users, with dedicated features like profile selection and editing.
@@ -62,7 +62,7 @@ Key features of the project:
 - **Multi-Page Application**: Includes approximately 30 pages, both static and dynamic, such as home pages, series/movies pages, and detailed subpages.
 - **Responsive Design**: Fully optimized for mobile, tablet, and desktop devices with a user-friendly layout.
 
-#### Technologies Used:
+### Technologies Used:
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white)](https://github.com/tomaszz95) 
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/tomaszz95) 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/tomaszz95) 
@@ -73,7 +73,7 @@ You can check the source code for this project on GitHub or view the live site o
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/Netflixclone)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://netflixcloneen.vercel.app/) 
 
-### Business Landing Pages (Geodesy and Law Company Pages)
+## Business Landing Pages (Geodesy and Law Company Pages)
 
 These projects showcase fully responsive websites designed and developed for two fictional businesses: a geodesy company and a law firm. Both websites prioritize clean design, intuitive navigation, and adherence to modern web development standards, including SEO optimization and accessibility-friendly practices.
 
@@ -81,7 +81,7 @@ These projects showcase fully responsive websites designed and developed for two
 
 **Law Company Website** - a comprehensive website designed for a fictional law firm. Written in English, it provides detailed information about the company’s team, services, and contact options in a professional layout.
 
-Key features:
+### Key features:
 - **Main Pages**: A main page with three / four sub-pages: Services, About Us, Team (Law Company) and Contact.
 - **Accessibility-Friendly**: Designed with inclusive practices for easy usability.
 - **SEO Optimized**: Structured to enhance visibility on search engines.
@@ -89,7 +89,7 @@ Key features:
 - **Responsive Design**: Optimized for mobile, tablet, and desktop viewing, ensuring a seamless user experience across devices.
 - **Custom 404 Page**: Designed for improved user experience in case of navigation errors
 
-#### Technologies Used:
+### Technologies Used:
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white)](https://github.com/tomaszz95) 
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/tomaszz95) 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/tomaszz95) 
@@ -101,11 +101,11 @@ You can check the source code for this projects on GitHub or view the live site 
 |--------------|--------------|
 | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/asgeodesy)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://asgeodezja.vercel.app/) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/pzblawcompany)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://pzblawcompany.vercel.app/)  |
 
-### Portfolio Page
+## Portfolio Page
 
 **Portfolio Page** is a modern, fully responsive website built with Next.js, TypeScript, and Tailwind CSS. It serves as a personal showcase for projects, skills, and contact information, following best practices for SEO and accessibility. The site includes several static and dynamic sub-pages, offering visitors detailed insights into completed projects and easy navigation. Site is tested using JEST and RTL - more than 100 unit tests are written for most components of varying complexity.
 
-Key features of the project:
+### Key features of the project:
 - **Main Pages**: Includes an About Me page, a Contact page with a functional email form, and a Projects page showcasing personal work.
 - **Dynamic Project Pages**: Each project features a dedicated page with detailed information, GitHub links, and live demos.
 - **Email Form**: Fully functional contact form using Axios, integrated with Formspree and deployed via Vercel, allowing visitors to send direct emails.
@@ -113,7 +113,7 @@ Key features of the project:
 - **Animations**: Smooth and interactive animations powered by the Framer Motion library.
 - **Responsive Design**: Optimized for mobile, tablet, and desktop viewing, ensuring a seamless user experience across devices.
 
-#### Technologies Used:
+### Technologies Used:
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white)](https://github.com/tomaszz95) 
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/tomaszz95) 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/tomaszz95) 
