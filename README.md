@@ -1,7 +1,7 @@
 <img alt="Hello I'm Tomek" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=33CA0E&center=false&vCenter=true&width=555&lines=Hello+I'm+Tomek">
 
 # 🙍 About me
-I’ve been learning programming for over two years, starting my journey with frontend development and mastering JavaScript, TypeScript, React, and Next.js. Over time, I’ve expanded into backend technologies like Node.js, Express.js, and Mongoose, enabling me to create fully functional applications. I have experience building both frontend interfaces and backend logic, integrating them with REST APIs and managing data with MongoDB. My goal is to continue developing my skills as a full-stack developer and take on more complex and challenging projects.
+I’ve been learning programming for over two years, starting my journey with frontend development and mastering JavaScript, TypeScript, React, and Next.js. Over time, I’ve expanded into backend technologies like Node.js, Express.js and Mongoose, enabling me to create fully functional applications. I have experience building both frontend interfaces and backend logic, integrating them with REST APIs and managing data with MongoDB. My goal is to continue developing my skills as a full-stack developer and take on more complex and challenging projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomasz-zuber95)
 [![Portfolio](https://img.shields.io/badge/Portfolio%20Page-8A2BE2?style=flat-square&logo=vercel&logoColor=white)](https://tomaszzportfolio.vercel.app)
