@@ -26,7 +26,7 @@ I’ve been learning programming for over two years, starting my journey with fr
 
 ## NeXtPC - E-commerce Website
 
-**NeXtPC** is a fully functional online store built with **Next.js**, **React**, **TypeScript**, **Node.js**, **Express.js**, and **Mongoose**. This application simulates an e-commerce store where users can browse products, add them to their shopping cart, and proceed with checkout. Authentication and authorization are handled using **JWT** (JSON Web Tokens), with data managed via a **MongoDB** database.
+**NeXtPC** is a fully functional online store built with **Next.js**, **React**, **TypeScript**, **Node.js**, **Express.js** and **Mongoose**. This application simulates an e-commerce store where users can browse products, add them to their shopping cart, and proceed with checkout. Authentication and authorization are handled using **JWT** (JSON Web Tokens), with data managed via a **MongoDB** database.
 
 ### Key features of the project:
 - **User Authentication**: Sign-up, login, and logout functionality handled on the backend, allowing users to securely manage their accounts and session.
