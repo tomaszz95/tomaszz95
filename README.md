@@ -28,10 +28,6 @@ I’ve been programming for almost three years, starting my journey with fronten
 
 **NeXtPC** is a fully functional online store built with **Next.js**, **React**, **TypeScript**, **Node.js**, **Express.js** and **Mongoose**. This application simulates an e-commerce store where users can browse products, add them to their shopping cart, and proceed with checkout. Authentication and authorization are handled using **JWT** (JSON Web Tokens), with data managed via a **MongoDB** database.
 
-### Important Notice!
-Please note that the backend is hosted on a free server (render.com), which may take up to 30 seconds to start. As a result, photos and data might take a moment to load. 
-I apologize for the inconvenience—this issue is solely due to the limitations of free hosting. In a production environment, this delay would not occur.
-
 ### Key features of the project:
 - **User Authentication**: Sign-up, login, and logout functionality handled on the backend, allowing users to securely manage their accounts and session.
 - **Product Browsing**: Users can view a list of available products, filter them by category, and search by keywords.
