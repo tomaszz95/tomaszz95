@@ -1,7 +1,7 @@
 <img alt="Hello I'm Tomek" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=33CA0E&center=false&vCenter=true&width=555&lines=Hello+I'm+Tomek">
 
 # 🙍 About me
-I’ve been programming for almost three years, starting my journey with frontend development and mastering JavaScript, TypeScript, React and Next.js. Over time, I’ve expanded into backend technologies like Node.js, Express.js and SQL, enabling me to create fully functional applications. I have experience building both frontend interfaces and backend logic, integrating them with REST APIs and managing data with MongoDB and SQL. My goal is to continue developing my skills as a full-stack developer and take on more complex and challenging projects.
+I’ve been programming for nearly 3 years, focusing primarily on frontend development and mastering JavaScript, TypeScript, React, and Next.js. I’ve also explored backend technologies like Node.js, Express.js, MongoDB with Mongoose, and SQL, including setting up a backend for one of my more complex projects (NeXtPC). While I’m most comfortable crafting frontend interfaces, my basic backend skills with REST APIs and data management using SQL and MongoDB are a handy addition. I’m eager to keep growing as both a frontend and backend developer, taking on new challenges.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomasz-zuber95)
 [![Portfolio](https://img.shields.io/badge/Portfolio%20Page-8A2BE2?style=flat-square&logo=vercel&logoColor=white)](https://tomaszzportfolio.vercel.app)
