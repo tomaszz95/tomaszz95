@@ -87,7 +87,7 @@ These projects showcase fully responsive websites designed and developed for two
 - **SEO Optimized**: Structured to enhance visibility on search engines.
 - **Core Design Principles**: Clean and minimalistic layout for a professional appearance.
 - **Responsive Design**: Optimized for mobile, tablet, and desktop viewing, ensuring a seamless user experience across devices.
-- **Custom 404 Page**: Designed for improved user experience in case of navigation errors
+- **Custom 404 Page**: Designed for improved user experience in case of navigation errors.
 
 ### Technologies Used:
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white)](https://github.com/tomaszz95) 
