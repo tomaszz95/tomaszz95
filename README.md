@@ -9,7 +9,7 @@ I’ve been programming for nearly 3 years, focusing primarily on frontend devel
 
 # 🔧 Technologies
 
-| **Frontend** | **Backend** / **Data** | **Others** |
+| **Frontend** | **Backend** / **Databases** | **Others** |
 |--------------|------------------------|------------|
 | [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white)](https://github.com/tomaszz95) | [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/tomaszz95) | [![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://github.com/tomaszz95) |
 | [![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/tomaszz95) | [![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/tomaszz95) | [![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-FF6F00?style=flat-square&logo=react&logoColor=white)](https://github.com/tomaszz95) |
@@ -17,10 +17,9 @@ I’ve been programming for nearly 3 years, focusing primarily on frontend devel
 | [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/tomaszz95) | [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/tomaszz95) | |
 | [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/tomaszz95) | [![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/tomaszz95) | |
 | [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://github.com/tomaszz95) | [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/tomaszz95) | |
-| [![SASS](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)](https://github.com/tomaszz95) | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/tomaszz95) | |
-| [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/tomaszz95) | [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)](https://github.com/tomaszz95) | |
-| [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/tomaszz95) | [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://github.com/tomaszz95) | |
-| [![WordPress](https://img.shields.io/badge/Wordpress-FF0000?style=flat-square&logo=wordpress&logoColor=white)](https://github.com/tomaszz95) | | |
+| [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/tomaszz95) | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/tomaszz95) | |
+| [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/tomaszz95) | [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)](https://github.com/tomaszz95) | |
+| [![WordPress](https://img.shields.io/badge/Wordpress-FF0000?style=flat-square&logo=wordpress&logoColor=white)](https://github.com/tomaszz95) | [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://github.com/tomaszz95) | |
 
 # 📕 Projects
 
