@@ -47,7 +47,7 @@ I’ve been programming for nearly 3 years, focusing primarily on frontend devel
 
 You can check the source code for this project on GitHub or view the live site on Vercel (backend hosted on Render.com):
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/ecommerce)     [![Live](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://nextpc.vercel.app/) 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/ecommerce)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://nextpc.vercel.app/) 
 
 ## Netflix Clone Project
 
@@ -70,7 +70,7 @@ You can check the source code for this project on GitHub or view the live site o
 
 You can check the source code for this project on GitHub or view the live site on Vercel:
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/Netflixclone)     [![Live](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://netflixcloneen.vercel.app/) 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/Netflixclone)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://netflixcloneen.vercel.app/) 
 
 ## Business Landing Pages (Geodesy and Law Company Pages)
 
@@ -98,7 +98,7 @@ You can check the source code for this projects on GitHub or view the live site 
 
 | **ASGeodesy** | **PZB Law Company** |
 |--------------|--------------|
-| [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/asgeodesy)     [![Live](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://asgeodezja.vercel.app/) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/pzblawcompany)     [![Live](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://pzblawcompany.vercel.app/)  |
+| [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/asgeodesy)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://asgeodezja.vercel.app/) | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomaszz95/pzblawcompany)     [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://pzblawcompany.vercel.app/)  |
 
 ## Portfolio Page
 
